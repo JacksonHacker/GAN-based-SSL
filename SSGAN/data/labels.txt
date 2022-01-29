@@ -1,0 +1,11 @@
+0:c0 safe driving
+1:c1 texting - right
+2:c2 talking on the phone - right
+3:c3 texting - left
+4:c4 talking on the phone - left
+5:c5 operating the radio
+6:c6 drinking
+7:c7 reaching behind
+8:c8 hair and makeup
+9:c9 talking to passenger
+10:unlabeled
